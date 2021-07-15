@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Eason Huang</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Eason Huang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Jul 2021 20:36:16 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs</title>
+      <link>http://localhost:1313/tags/emacs/</link>
+      <pubDate>Thu, 15 Jul 2021 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rime</title>
+      <link>http://localhost:1313/tags/rime/</link>
+      <pubDate>Thu, 15 Jul 2021 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/rime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arch</title>
+      <link>http://localhost:1313/tags/arch/</link>
+      <pubDate>Sat, 06 Mar 2021 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/arch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WSL2</title>
+      <link>http://localhost:1313/tags/wsl2/</link>
+      <pubDate>Sat, 06 Mar 2021 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/wsl2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GccEmacs</title>
+      <link>http://localhost:1313/tags/gccemacs/</link>
+      <pubDate>Tue, 23 Feb 2021 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/gccemacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Native-comp</title>
+      <link>http://localhost:1313/tags/native-comp/</link>
+      <pubDate>Tue, 23 Feb 2021 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/native-comp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Mon, 22 Feb 2021 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>http://localhost:1313/tags/windows/</link>
+      <pubDate>Mon, 22 Feb 2021 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://localhost:1313/tags/git/</link>
+      <pubDate>Tue, 16 Feb 2021 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>http://localhost:1313/tags/github/</link>
+      <pubDate>Tue, 16 Feb 2021 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quicklisp</title>
+      <link>http://localhost:1313/tags/quicklisp/</link>
+      <pubDate>Mon, 25 May 2020 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/quicklisp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SBCL</title>
+      <link>http://localhost:1313/tags/sbcl/</link>
+      <pubDate>Mon, 25 May 2020 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/sbcl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slime</title>
+      <link>http://localhost:1313/tags/slime/</link>
+      <pubDate>Mon, 25 May 2020 20:36:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/slime/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
