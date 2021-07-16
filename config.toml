@@ -1,4 +1,4 @@
-baseURL = "http://eason0210.github.io/"
+baseURL = "https://eason0210.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Eason Huang"
